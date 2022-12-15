@@ -32,8 +32,8 @@ span {
 main section:nth-child(1) article {
     display: flex;
     justify-content: flex-end;
-    padding-top: 2%;
-    padding-right: 5%;
+    padding-top: 5%;
+    padding-right: 10%;
 }
 
 main section:nth-child(1) article img {
